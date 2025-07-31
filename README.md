@@ -1,4 +1,4 @@
-# 📊 Statistics Advanced - 1 Assignment (DA-AG-006)
+# 📊 Statistics Advanced - 1 Assignment 
 
 This repository contains solutions for the **Statistics Advanced - 1 Assignment** as part of the Data Analytics curriculum.
 
